@@ -23,5 +23,6 @@ public class BinarySearchNoRecur {
 		}
 		return -1;
 	}
-
 }
+
+
